@@ -1,7 +1,6 @@
 A Todo List App created using Next JS with Tailwind CSS installed. It also allows dragging the list items using the react-beautiful-dnd library.
 
-View my youtube video here:
-https://www.youtube.com/watch?v=zffCSsHQx9g
+
 
 ## Getting Started
 
